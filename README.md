@@ -17,4 +17,13 @@ Datasets can be found in the [Data folder](https://github.com/amir-sadeghi-kh/Be
 This phase uses the cleaned data in the previous section to show demonstrate KPIs for manegers at the company. Here you can find some of the graphs. 
 Datails and SAS code can be found in this repository.
 
+<p align="center">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity3_1.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity3_3.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity3_6.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity4_1.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity4_4.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity5_5.PNG">
+<img width="500" src="https://github.com/amir-sadeghi-kh/Beverage-Company-Case-Study/blob/main/Figures/activity7_4.PNG">
+</p>
 
