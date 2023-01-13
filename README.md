@@ -9,7 +9,7 @@ This is an overview of how to program and manage data using SAS, which is a comm
 ## Project Information
 ### Phase 1. Data Cleaning
 The purpose of first phase of the project is to build all the data sets you need for phase two. No output is due at the end of phase 1. 
-Datasets can be found in the [Data folder](Beverage-Company-Case-Study/tree/master/your-subfolder).
+Datasets can be found in the [Data folder](Beverage-Company-Case-Study/tree/master/Beverage Company Dataset/).
 
 ### Phase 2. Data Visualization
 
