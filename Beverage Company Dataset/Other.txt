@@ -1,0 +1,14 @@
+List of other drink products and flavors and their classification				
+Size and unit types sold and package quantities	
+	Name(Division S=Soda E=Energy Drinks)
+	Non-Soda Ades(S)
+1	Lemonade	12 oz can	20 oz bottle	2 liter bottle	"12 oz can(6, 24)"	20 oz bottle(8)
+2	Diet Lemonade	12 oz can	20 oz bottle	2 liter bottle	"12 oz can(6, 24)"	20 oz bottle(8)
+3	Orangeade	12 oz can	20 oz bottle	2 liter bottle	"12 oz can(6, 24)"	20 oz bottle(8)
+4	Diet Orangeade	12 oz can	20 oz bottle	2 liter bottle	"12 oz can(6, 24)"	20 oz bottle(8)
+	Nutritional Water(E)					
+5	Orange	20 oz bottle	20 oz bottle(8)			
+6	Grape	20 oz bottle	20 oz bottle(8)			
+	Diet Nutritional Water(E)					
+7	Orange	20 oz bottle	20 oz bottle(8)			
+8	Grape	20 oz bottle	20 oz bottle(8)			

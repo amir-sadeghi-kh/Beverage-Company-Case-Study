@@ -1,0 +1,308 @@
+State and County information--FIPS Codes and Corresponding Names
+Region is the fifth column
+Final two columns are Estimated 2016 and 2017 Population, respectively
+13,1,Georgia,Appling County,Eastern,18485,18521
+13,3,Georgia,Atkinson County,Eastern,8320,8342
+13,5,Georgia,Bacon County,Eastern,11365,11319
+13,7,Georgia,Baker County,Western,3208,3200
+13,9,Georgia,Baldwin County,Central,45190,44906
+13,11,Georgia,Banks County,Central,18309,18634
+13,13,Georgia,Barrow County,Central,77091,79061
+13,15,Georgia,Bartow County,Western,103431,105054
+13,17,Georgia,Ben Hill County,Central,17190,16996
+13,19,Georgia,Berrien County,Central,19014,19186
+13,21,Georgia,Bibb County,Central,153205,152862
+13,23,Georgia,Bleckley County,Central,12898,12830
+13,25,Georgia,Brantley County,Eastern,18355,18731
+13,27,Georgia,Brooks County,Central,15693,15587
+13,29,Georgia,Bryan County,Eastern,35842,37060
+13,31,Georgia,Bulloch County,Eastern,74721,76149
+13,33,Georgia,Burke County,Eastern,22608,22522
+13,35,Georgia,Butts County,Central,23710,24059
+13,37,Georgia,Calhoun County,Western,6393,6455
+13,39,Georgia,Camden County,Eastern,52416,53044
+13,43,Georgia,Candler County,Eastern,10915,10797
+13,45,Georgia,Carroll County,Western,116291,117812
+13,47,Georgia,Catoosa County,Western,66267,66550
+13,49,Georgia,Charlton County,Eastern,12751,12715
+13,51,Georgia,Chatham County,Eastern,289390,290501
+13,53,Georgia,Chattahoochee County,Western,10100,10343
+13,55,Georgia,Chattooga County,Western,24833,24770
+13,57,Georgia,Cherokee County,Western,241600,247573
+13,59,Georgia,Clarke County,Central,125018,127064
+13,61,Georgia,Clay County,Western,3006,2962
+13,63,Georgia,Clayton County,Western,280006,285153
+13,65,Georgia,Clinch County,Eastern,6789,6727
+13,67,Georgia,Cobb County,Western,750477,755754
+13,69,Georgia,Coffee County,Eastern,43015,43014
+13,71,Georgia,Colquitt County,Central,45671,45835
+13,73,Georgia,Columbia County,Eastern,147451,151579
+13,75,Georgia,Cook County,Central,17187,17277
+13,77,Georgia,Coweta County,Western,140472,143114
+13,79,Georgia,Crawford County,Central,12291,12295
+13,81,Georgia,Crisp County,Central,22935,22736
+13,83,Georgia,Dade County,Western,16242,16285
+13,85,Georgia,Dawson County,Central,23613,24379
+13,87,Georgia,Decatur County,Western,26715,26716
+13,89,Georgia,DeKalb County,Central,746690,753253
+13,91,Georgia,Dodge County,Central,20837,20730
+13,93,Georgia,Dooly County,Central,13885,13737
+13,95,Georgia,Dougherty County,Central,90395,89502
+13,97,Georgia,Douglas County,Western,142021,143882
+13,99,Georgia,Early County,Western,10298,10296
+13,101,Georgia,Echols County,Eastern,3981,3936
+13,103,Georgia,Effingham County,Eastern,58553,59982
+13,105,Georgia,Elbert County,Eastern,19143,19109
+13,107,Georgia,Emanuel County,Eastern,22404,22530
+13,109,Georgia,Evans County,Eastern,10668,10775
+13,111,Georgia,Fannin County,Western,24991,25322
+13,113,Georgia,Fayette County,Western,111248,112549
+13,115,Georgia,Floyd County,Western,96620,97613
+13,117,Georgia,Forsyth County,Central,220067,227967
+13,119,Georgia,Franklin County,Central,22306,22820
+13,121,Georgia,Fulton County,Western,1024248,1041423
+13,123,Georgia,Gilmer County,Western,30033,30674
+13,125,Georgia,Glascock County,Eastern,2992,3062
+13,127,Georgia,Glynn County,Eastern,84528,85282
+13,129,Georgia,Gordon County,Western,56987,57089
+13,131,Georgia,Grady County,Central,24893,24819
+13,133,Georgia,Greene County,Central,16939,17281
+13,135,Georgia,Gwinnett County,Central,907101,920260
+13,137,Georgia,Habersham County,Central,44177,44567
+13,139,Georgia,Hall County,Central,196237,199335
+13,141,Georgia,Hancock County,Central,8657,8561
+13,143,Georgia,Haralson County,Western,28833,29256
+13,145,Georgia,Harris County,Western,33617,33915
+13,147,Georgia,Hart County,Eastern,25548,25794
+13,149,Georgia,Heard County,Western,11574,11730
+13,151,Georgia,Henry County,Central,221355,225813
+13,153,Georgia,Houston County,Central,151862,153479
+13,155,Georgia,Irwin County,Central,9359,9410
+13,157,Georgia,Jackson County,Central,64978,67519
+13,159,Georgia,Jasper County,Central,13821,13964
+13,161,Georgia,Jeff Davis County,Eastern,14970,15025
+13,163,Georgia,Jefferson County,Eastern,15788,15648
+13,165,Georgia,Jenkins County,Eastern,8770,8767
+13,167,Georgia,Johnson County,Eastern,9730,9788
+13,169,Georgia,Jones County,Central,28553,28470
+13,171,Georgia,Lamar County,Central,18470,18599
+13,173,Georgia,Lanier County,Eastern,10454,10425
+13,175,Georgia,Laurens County,Eastern,47192,47330
+13,177,Georgia,Lee County,Central,29230,29470
+13,179,Georgia,Liberty County,Eastern,61390,61386
+13,181,Georgia,Lincoln County,Eastern,7864,7880
+13,183,Georgia,Long County,Eastern,18594,19014
+13,185,Georgia,Lowndes County,Central,114306,115489
+13,187,Georgia,Lumpkin County,Central,31528,32873
+13,189,Georgia,McDuffie County,Eastern,21456,21498
+13,191,Georgia,McIntosh County,Eastern,14072,14106
+13,193,Georgia,Macon County,Central,13520,13314
+13,195,Georgia,Madison County,Central,28827,29302
+13,197,Georgia,Marion County,Western,8511,8450
+13,199,Georgia,Meriwether County,Western,21072,21049
+13,201,Georgia,Miller County,Western,5881,5838
+13,205,Georgia,Mitchell County,Western,22411,22292
+13,207,Georgia,Monroe County,Central,26879,27113
+13,209,Georgia,Montgomery County,Eastern,8983,9031
+13,211,Georgia,Morgan County,Central,18121,18412
+13,213,Georgia,Murray County,Western,39376,39782
+13,215,Georgia,Muscogee County,Western,196307,194058
+13,217,Georgia,Newton County,Central,106580,108078
+13,219,Georgia,Oconee County,Central,36866,38028
+13,221,Georgia,Oglethorpe County,Central,14710,14877
+13,223,Georgia,Paulding County,Western,155374,159445
+13,225,Georgia,Peach County,Central,26899,27099
+13,227,Georgia,Pickens County,Western,30695,31588
+13,229,Georgia,Pierce County,Eastern,19218,19307
+13,231,Georgia,Pike County,Western,17923,18217
+13,233,Georgia,Polk County,Western,41730,42085
+13,235,Georgia,Pulaski County,Central,11307,11201
+13,237,Georgia,Putnam County,Central,21548,21730
+13,239,Georgia,Quitman County,Western,2333,2358
+13,241,Georgia,Rabun County,Central,16528,16602
+13,243,Georgia,Randolph County,Western,7225,7075
+13,245,Georgia,Richmond County,Eastern,202008,201800
+13,247,Georgia,Rockdale County,Central,89375,90312
+13,249,Georgia,Schley County,Central,5158,5213
+13,251,Georgia,Screven County,Eastern,14032,13953
+13,253,Georgia,Seminole County,Western,8445,8292
+13,255,Georgia,Spalding County,Western,64553,65380
+13,257,Georgia,Stephens County,Central,25724,25890
+13,259,Georgia,Stewart County,Western,5875,5985
+13,261,Georgia,Sumter County,Central,30355,29847
+13,263,Georgia,Talbot County,Western,6353,6249
+13,265,Georgia,Taliaferro County,Eastern,1626,1628
+13,267,Georgia,Tattnall County,Eastern,25281,25334
+13,269,Georgia,Taylor County,Central,8199,8142
+13,271,Georgia,Telfair County,Eastern,16034,15989
+13,273,Georgia,Terrell County,Western,8888,8729
+13,275,Georgia,Thomas County,Central,45090,44779
+13,277,Georgia,Tift County,Central,40650,40598
+13,279,Georgia,Toombs County,Eastern,27195,26999
+13,281,Georgia,Towns County,Central,11349,11506
+13,283,Georgia,Treutlen County,Eastern,6727,6740
+13,285,Georgia,Troup County,Western,69776,69786
+13,287,Georgia,Turner County,Central,7972,7961
+13,289,Georgia,Twiggs County,Central,8235,8174
+13,291,Georgia,Union County,Central,22660,23459
+13,293,Georgia,Upson County,Western,26213,26135
+13,295,Georgia,Walker County,Western,68326,68939
+13,297,Georgia,Walton County,Central,89911,91600
+13,299,Georgia,Ware County,Eastern,35776,35871
+13,301,Georgia,Warren County,Eastern,5382,5303
+13,303,Georgia,Washington County,Eastern,20343,20313
+13,305,Georgia,Wayne County,Eastern,29985,29817
+13,307,Georgia,Webster County,Western,2612,2605
+13,309,Georgia,Wheeler County,Eastern,8017,7952
+13,311,Georgia,White County,Central,28825,29453
+13,313,Georgia,Whitfield County,Western,104698,104658
+13,315,Georgia,Wilcox County,Central,8867,8800
+13,317,Georgia,Wilkes County,Eastern,9822,9892
+13,319,Georgia,Wilkinson County,Central,9048,8959
+13,321,Georgia,Worth County,Central,20719,20533
+37,1,North Carolina,Alamance County,Central,159325,162391
+37,3,North Carolina,Alexander County,Western,37270,37286
+37,5,North Carolina,Alleghany County,Western,10945,11031
+37,7,North Carolina,Anson County,Central,25119,24991
+37,9,North Carolina,Ashe County,Western,26754,26957
+37,11,North Carolina,Avery County,Western,17500,17536
+37,13,North Carolina,Beaufort County,Eastern,47361,47088
+37,15,North Carolina,Bertie County,Eastern,19449,19224
+37,17,North Carolina,Bladen County,Central,33796,33478
+37,19,North Carolina,Brunswick County,Central,126353,130897
+37,21,North Carolina,Buncombe County,Western,255334,257607
+37,23,North Carolina,Burke County,Western,88802,89293
+37,25,North Carolina,Cabarrus County,Central,201573,206872
+37,27,North Carolina,Caldwell County,Western,81787,81981
+37,29,North Carolina,Camden County,Eastern,10423,10581
+37,31,North Carolina,Carteret County,Eastern,68855,68881
+37,33,North Carolina,Caswell County,Central,22742,22646
+37,35,North Carolina,Catawba County,Western,156647,157974
+37,37,North Carolina,Chatham County,Central,69824,71472
+37,39,North Carolina,Cherokee County,Western,27883,28087
+37,41,North Carolina,Chowan County,Eastern,14240,14105
+37,43,North Carolina,Clay County,Western,10819,11074
+37,45,North Carolina,Cleveland County,Western,97102,97334
+37,47,North Carolina,Columbus County,Central,56335,55936
+37,49,North Carolina,Craven County,Eastern,102857,102578
+37,51,North Carolina,Cumberland County,Central,333538,332546
+37,53,North Carolina,Currituck County,Eastern,25664,26331
+37,55,North Carolina,Dare County,Eastern,35760,36099
+37,57,North Carolina,Davidson County,Central,164504,165466
+37,59,North Carolina,Davie County,Central,41973,42456
+37,61,North Carolina,Duplin County,Eastern,59559,59039
+37,63,North Carolina,Durham County,Central,307090,311640
+37,65,North Carolina,Edgecombe County,Eastern,53293,52747
+37,67,North Carolina,Forsyth County,Central,371614,376320
+37,69,North Carolina,Franklin County,Central,64659,66168
+37,71,North Carolina,Gaston County,Western,216903,220182
+37,73,North Carolina,Gates County,Eastern,11593,11544
+37,75,North Carolina,Graham County,Western,8548,8541
+37,77,North Carolina,Granville County,Central,58824,59557
+37,79,North Carolina,Greene County,Eastern,21144,21015
+37,81,North Carolina,Guilford County,Central,521996,526953
+37,83,North Carolina,Halifax County,Eastern,51871,51310
+37,85,North Carolina,Harnett County,Central,130899,132754
+37,87,North Carolina,Haywood County,Western,60388,61084
+37,89,North Carolina,Henderson County,Western,113758,115708
+37,91,North Carolina,Hertford County,Eastern,24096,23906
+37,93,North Carolina,Hoke County,Central,53108,54116
+37,95,North Carolina,Hyde County,Eastern,5476,5363
+37,97,North Carolina,Iredell County,Western,172529,175711
+37,99,North Carolina,Jackson County,Western,42268,42973
+37,101,North Carolina,Johnston County,Central,191094,196708
+37,103,North Carolina,Jones County,Eastern,9625,9597
+37,105,North Carolina,Lee County,Central,59746,60430
+37,107,North Carolina,Lenoir County,Eastern,57432,56883
+37,109,North Carolina,Lincoln County,Western,81075,82403
+37,111,North Carolina,McDowell County,Western,44989,45159
+37,113,North Carolina,Macon County,Western,34309,34732
+37,115,North Carolina,Madison County,Western,21434,21746
+37,117,North Carolina,Martin County,Eastern,23081,22789
+37,119,North Carolina,Mecklenburg County,Western,1057237,1076837
+37,121,North Carolina,Mitchell County,Western,15068,15072
+37,123,North Carolina,Montgomery County,Central,27438,27435
+37,125,North Carolina,Moore County,Central,95392,97264
+37,127,North Carolina,Nash County,Eastern,94008,93991
+37,129,North Carolina,New Hanover County,Eastern,223234,227198
+37,131,North Carolina,Northampton County,Eastern,20166,19862
+37,133,North Carolina,Onslow County,Eastern,192199,193893
+37,135,North Carolina,Orange County,Central,142723,144946
+37,137,North Carolina,Pamlico County,Eastern,12799,12689
+37,139,North Carolina,Pasquotank County,Eastern,39615,39743
+37,141,North Carolina,Pender County,Eastern,58897,60958
+37,143,North Carolina,Perquimans County,Eastern,13427,13474
+37,145,North Carolina,Person County,Central,39283,39370
+37,147,North Carolina,Pitt County,Eastern,177627,179042
+37,149,North Carolina,Polk County,Western,20421,20558
+37,151,North Carolina,Randolph County,Central,143209,143282
+37,153,North Carolina,Richmond County,Central,45054,44798
+37,155,North Carolina,Robeson County,Central,133514,132606
+37,157,North Carolina,Rockingham County,Central,91359,90949
+37,159,North Carolina,Rowan County,Central,139529,140644
+37,161,North Carolina,Rutherford County,Western,66305,66551
+37,163,North Carolina,Sampson County,Central,63363,63430
+37,165,North Carolina,Scotland County,Central,35250,35093
+37,167,North Carolina,Stanly County,Central,60880,61482
+37,169,North Carolina,Stokes County,Central,45891,45717
+37,171,North Carolina,Surry County,Central,72049,72224
+37,173,North Carolina,Swain County,Western,14187,14294
+37,175,North Carolina,Transylvania County,Western,33471,33956
+37,177,North Carolina,Tyrrell County,Eastern,4039,4052
+37,179,North Carolina,Union County,Central,226540,231366
+37,181,North Carolina,Vance County,Central,44426,44211
+37,183,North Carolina,Wake County,Central,1049143,1072203
+37,185,North Carolina,Warren County,Central,19889,19883
+37,187,North Carolina,Washington County,Eastern,12132,12012
+37,189,North Carolina,Watauga County,Western,54099,55121
+37,191,North Carolina,Wayne County,Central,124476,124172
+37,193,North Carolina,Wilkes County,Western,68634,68576
+37,195,North Carolina,Wilson County,Eastern,81433,81671
+37,197,North Carolina,Yadkin County,Central,37726,37774
+37,199,North Carolina,Yancey County,Western,17622,17744
+45,1,South Carolina,Abbeville County,Western,24717,24722
+45,3,South Carolina,Aiken County,Western,166922,168179
+45,5,South Carolina,Allendale County,Central,9059,9002
+45,7,South Carolina,Anderson County,Western,195968,198759
+45,9,South Carolina,Bamberg County,Central,14530,14381
+45,11,South Carolina,Barnwell County,Central,21591,21345
+45,13,South Carolina,Beaufort County,Central,183497,186844
+45,15,South Carolina,Berkeley County,Eastern,211863,217937
+45,17,South Carolina,Calhoun County,Central,14751,14704
+45,19,South Carolina,Charleston County,Eastern,396570,401438
+45,21,South Carolina,Cherokee County,Central,56725,57105
+45,23,South Carolina,Chester County,Central,32280,32301
+45,25,South Carolina,Chesterfield County,Eastern,46170,45948
+45,27,South Carolina,Clarendon County,Eastern,34239,34057
+45,29,South Carolina,Colleton County,Central,37599,37611
+45,31,South Carolina,Darlington County,Eastern,67370,67265
+45,33,South Carolina,Dillon County,Eastern,30817,30666
+45,35,South Carolina,Dorchester County,Central,153471,156456
+45,37,South Carolina,Edgefield County,Western,26580,26693
+45,39,South Carolina,Fairfield County,Central,22630,22607
+45,41,South Carolina,Florence County,Eastern,138448,138566
+45,43,South Carolina,Georgetown County,Eastern,61374,61607
+45,45,South Carolina,Greenville County,Western,499034,506837
+45,47,South Carolina,Greenwood County,Western,70172,70355
+45,49,South Carolina,Hampton County,Central,19874,19602
+45,51,South Carolina,Horry County,Eastern,321440,333268
+45,53,South Carolina,Jasper County,Central,28071,28458
+45,55,South Carolina,Kershaw County,Central,64269,65036
+45,57,South Carolina,Lancaster County,Central,89855,92550
+45,59,South Carolina,Laurens County,Western,66571,66848
+45,61,South Carolina,Lee County,Eastern,17607,17350
+45,63,South Carolina,Lexington County,Central,286394,290642
+45,65,South Carolina,McCormick County,Western,9569,9545
+45,67,South Carolina,Marion County,Eastern,31753,31293
+45,69,South Carolina,Marlboro County,Eastern,27036,26825
+45,71,South Carolina,Newberry County,Western,38044,38488
+45,73,South Carolina,Oconee County,Western,76407,77270
+45,75,South Carolina,Orangeburg County,Central,88334,87476
+45,77,South Carolina,Pickens County,Western,122939,123479
+45,79,South Carolina,Richland County,Central,409104,411592
+45,81,South Carolina,Saluda County,Western,20295,20452
+45,83,South Carolina,Spartanburg County,Western,301066,306854
+45,85,South Carolina,Sumter County,Eastern,107287,106847
+45,87,South Carolina,Union County,Central,27685,27537
+45,89,South Carolina,Williamsburg County,Eastern,31847,31133
+45,91,South Carolina,York County,Central,257998,266439
